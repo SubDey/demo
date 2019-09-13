@@ -1,10 +1,12 @@
 {
  
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "questions": ["Horoscopes accurately predict future events 85% of the time.", false],
+ ["The National Weather Service will pay $30 for the rights to any original photograph of lightning. ", false],
+ ["Liberace was a notorious womanizer. ", false],
+ ["Due to a calendar mix-up, there were two years in a row identified as \"1973\". ", false],
+ ["Contrary to popular belief, the white is not the healthiest part of an egg. It's actually the shell. ", false],
+ ["Intelligent people have more zinc and copper in their hair.", true],
+ ["The Spanish word esposa means \"wife.\" The plural, esposas, means \"wives,\" but also \"handcuffs.\"", true]
+
 }
+
